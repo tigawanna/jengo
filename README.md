@@ -48,3 +48,32 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+```sh
+npx create-expo-app@latest -template blank-typescript https://docs.expo.dev/more/create-expo-app/
+```
+
+https://docs.expo.dev/get-started/set-up-your-environment/?mode=development-build6buildEnv=local
+
+```sh
+npx expo install expo-dev-client
+npx expo run:android
+npx expo run:ios -device
+```
+
+https://docs.expo.dev/modules/get-started/#adding-a-new-module-to-an-existing-application
+
+
+```sh
+npx create-expo-module@latest -local
+```
+
+```sh
+npx expo prebuild -clean
+npx expo start
+npx expo run:android device
+```
+
+https://docs.expo.dev/modules/native-view-tutorial/

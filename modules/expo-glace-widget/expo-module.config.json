@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoGlaceWidgetModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.glacewidget.ExpoGlaceWidgetModule"]
+  }
+}
