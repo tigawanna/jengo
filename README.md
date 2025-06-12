@@ -46,3 +46,8 @@ npx expo run:android device
 ```
 
 [Native View Tutorial](https://docs.expo.dev/modules/native-view-tutorial/)
+
+
+progress:
+
+https://www.youtube.com/watch?v=2u4oTUKqD9E 3:24
